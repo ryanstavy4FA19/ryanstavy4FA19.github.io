@@ -1,0 +1,19 @@
+body {
+background-color: cornflowerblue;
+color: red;
+font-size: 21px;
+
+}
+
+p {
+    color:red;
+}
+
+h1 {
+    font-size: 60px;
+    color:rgb(17, 226, 163);
+}
+
+span{
+    color: indigo;
+}
